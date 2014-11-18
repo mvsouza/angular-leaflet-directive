@@ -113,3 +113,7 @@ Finally, you must include the markup directive on your HTML page, like this:
 ```html
 <leaflet defaults="defaults" center="center" height="480px" width="640px"></leaflet>
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mvsouza/angular-leaflet-directive/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
